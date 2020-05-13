@@ -1,5 +1,5 @@
 # Data-Analytics-Gladiator
-This is one of my college project. This contains 3 phases which are: 
+This is one of the projects assigned to me at my institution. This projected is implemented in 3 phases which are: 
 
 
 1) Calculating eigen vectors & eigen values. Performing Principal Component Analysis on the IRIS data set. 
